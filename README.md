@@ -7,6 +7,7 @@
 
 ## Features
 Responsive for web and mobile
+Focus on accessibility
 Dynamic text and images via customized dials on storefront site
 
 [https://github.com/rsdave5/email-dev/blob/master/portfolio-email]
