@@ -3,7 +3,7 @@
 ### Email: rsdave5@gmail.com
 
 # **Nissan**
-**Email template done for XMPie circle**
+**Email template created in XMPie circle Email Service Provider**
 
 ## Features
 • Responsive for web and mobile
