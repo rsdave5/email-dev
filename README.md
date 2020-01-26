@@ -6,10 +6,11 @@
 **Email template done for XMPie circle**
 
 ## Features
-Responsive for web and mobile
+• Responsive for web and mobile
 
-Focus on accessibility
+• Focus on accessibility following WCAG 2.0 standards.
 
-Dynamic text and images via customized dials on storefront site
+
+• Dynamic text and images via customized dials on storefront site
 
 [https://github.com/rsdave5/email-dev/blob/master/portfolio-email]
