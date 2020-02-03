@@ -10,7 +10,9 @@
 
 • Focus on accessibility following WCAG 2.0 standards.
 
-
 • Dynamic text and images via customized dials on storefront site
+
+<a href="https://github.com/rsdave5/email-dev/blob/master/portfolio-email"><img src="https://i.imgur.com/yCmes79.png" 
+alt="Desktop version of email" width="240" border="1"/></a>
 
 [https://github.com/rsdave5/email-dev/blob/master/portfolio-email]
